@@ -1,1 +1,0 @@
-# Multi-ParadigmProgramming_ShopAssignment
