@@ -1,4 +1,4 @@
-# Overview of Assessment-ML-S
+# Overview of Assessment
 
 In this short report I will compare two ways (procedural and object oriented programming) of writing a code studied in the multiparadigm classes. 
 This discussion is based on the solutions reached to create a store by implementing procedural and object-oriented approaches.
